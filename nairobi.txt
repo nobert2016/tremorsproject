@@ -7,3 +7,4 @@
            Ruiru          Kiambu   238858.000000
         Kangundo        Machakos   218557.000000
          Malindi          Kilifi   207253.000000
+         Garissa           Wajir   120147.000000
